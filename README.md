@@ -2,7 +2,11 @@
 
 I'm Jack, a curious thinker with a passion for learning and evolving across different fields. I majored in philosophy, specialized in creative writing, and earned a certification in personal training. I'm currently earning dual master degrees in international business & business analytics.
 
-I've recently grown fond of data analytics, and that's what brought me to the universe of Github & Kaggle.
+You can find me on: 
+
+![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=LinkedIn&logo=linkedin&logoColor=white&color=0077B5&link=https://www.linkedin.com/in/jackdaoud///left&link=https://www.linkedin.com/in/jackdaoud///right) ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Kaggle&logo=Kaggle&logoColor=white&color=20BEFF&link=https://www.kaggle.com/jackdaoud//left&link=https://www.kaggle.com/jackdaoud//right)
+
+I've recently grown fond of data analytics, and that's what brought me to the universe of Github.
 
 Overview of my Github Stats:
 
@@ -10,11 +14,11 @@ Overview of my Github Stats:
 
 Overview of my Toolbox:
 
-![Python 3.5](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Python&logo=python&logoColor=white&color=green)![Pandas](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Pandas&logo=pandas&logoColor=white&color=yellow)![NumPy](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=NumPy&logo=NumPy&logoColor=white&color=purple)![sci-kit learn](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=scikit-learn&logo=scikit-learn&logoColor=white&color=orange)
+![Python 3.5](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Python&logo=python&logoColor=white&color=3776AB)![Pandas](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Pandas&logo=pandas&logoColor=white&color=150458)![NumPy](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=NumPy&logo=NumPy&logoColor=white&color=013243)![sci-kit learn](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=scikit-learn&logo=scikit-learn&logoColor=white&color=F7931E)
 
-![R](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=RStudio&logo=R&logoColor=white&color=blue)
+![R](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=RStudio&logo=R&logoColor=white&color=75AADB)
 
-![SQL](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=SQL&logo=mysql&logoColor=grey&color=9cf)
+![SQL](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=SQL&logo=mysql&logoColor=grey&color=4479A1)
 <h1 align="center"> </h1>
 
 When I'm not analyzing things, I enjoy reading philosophy and playing video games like RuneScape, League of Legends, or Valorant.
