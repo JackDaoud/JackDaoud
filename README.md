@@ -18,7 +18,7 @@ Overview of my Toolbox:
 
 ![R](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=RStudio&logo=R&logoColor=white&color=75AADB)
 
-![SQL](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=SQL&logo=mysql&logoColor=grey&color=4479A1)
+![SQL](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=SQL&logo=mysql&logoColor=white&color=4479A1)
 <h1 align="center"> </h1>
 
 When I'm not analyzing things, I enjoy reading philosophy and playing video games like RuneScape, League of Legends, or Valorant.
