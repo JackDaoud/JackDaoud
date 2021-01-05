@@ -4,7 +4,11 @@ I'm Jack, a curious thinker with a passion for learning and evolving across diff
 
 You can find me on: 
 
-![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=LinkedIn&logo=linkedin&logoColor=white&color=0077B5&link=https://www.linkedin.com/in/jackdaoud/) ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Kaggle&logo=Kaggle&logoColor=white&color=20BEFF&link=https://www.kaggle.com/jackdaoud/)
+![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=LinkedIn&logo=linkedin&logoColor=white&color=0077B5&link=https://www.linkedin.com/in/jackdaoud/) 
+![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Kaggle&logo=Kaggle&logoColor=white&color=20BEFF&link=https://www.kaggle.com/jackdaoud/) 
+![Tableau](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Tableau&logo=tableau&logoColor=white&color=E97627&link=https://public.tableau.com/profile/jack.daoud#!/)
+
+<sub><sup>For both our sake of privacy, clicking any of these social links will direct you to a Camo rendered image that you'll have to click again.</sup></sub>
 
 I've recently grown fond of data analytics, and that's what brought me to the universe of Github.
 
