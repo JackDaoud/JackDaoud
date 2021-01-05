@@ -18,7 +18,7 @@ Overview of my Github Stats:
 
 Overview of my Toolbox:
 
-![Python 3.5](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Python&logo=python&logoColor=white&color=3776AB)![Pandas](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Pandas&logo=pandas&logoColor=white&color=150458)![NumPy](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=NumPy&logo=NumPy&logoColor=white&color=013243)![sci-kit learn](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=scikit-learn&logo=scikit-learn&logoColor=white&color=F7931E)
+![Python 3.5](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Python&logo=python&logoColor=white&color=green)![Pandas](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=Pandas&logo=pandas&logoColor=white&color=150458)![NumPy](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=NumPy&logo=NumPy&logoColor=white&color=013243)![sci-kit learn](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=scikit-learn&logo=scikit-learn&logoColor=white&color=F7931E)
 
 ![R](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=RStudio&logo=R&logoColor=white&color=75AADB)
 
