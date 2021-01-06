@@ -27,9 +27,11 @@ Overview of my Toolbox:
 
 When I'm not analyzing things, I enjoy reading philosophy and playing video games like RuneScape, League of Legends, or Valorant.
 
-Meet *Elusivebeing*, my RuneScape champion!
+Here's my RuneScape champion battling the King Black Dragon with a friend!
 
-<img src="RuneScape_Character.png">
+<sub><sup>P.S. I'm the one with the horned helmet & squiggly sword</sub></sup>
+
+<img src="RuneScape.png">
 
 
 
