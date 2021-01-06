@@ -14,7 +14,7 @@ I've recently grown fond of data analytics, and that's what brought me to the un
 
 Overview of my Github Stats:
 
-[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=JackDaoud&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=JackDaoud&count_private=true&theme=graywhite&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Overview of my Toolbox:
 
