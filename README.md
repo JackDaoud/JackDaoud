@@ -25,6 +25,12 @@ Overview of my Toolbox:
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&label=+&message=SQL&logo=mysql&logoColor=white&color=4479A1)
 <h1 align="center"> </h1>
 
+
+
+<!--
+**JackDaoud/JackDaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 When I'm not analyzing things, I enjoy reading philosophy and playing video games like RuneScape, League of Legends, or Valorant.
 
 Here's my RuneScape champion battling the King Black Dragon with a friend!
@@ -33,10 +39,6 @@ Here's my RuneScape champion battling the King Black Dragon with a friend!
 
 <img src="RuneScape.png">
 
-
-
-<!--
-**JackDaoud/JackDaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
