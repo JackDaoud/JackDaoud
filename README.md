@@ -4,7 +4,6 @@ I'm Jack, a curious thinker with a passion for learning and evolving across diff
 I've recently grown fond of data analytics, and that's what brought me to the universe of Github.
 
 ### 📈 Github Stats:
-<br>
 
 [![Jack's github stats](https://github-readme-stats.vercel.app/api?username=JackDaoud&count_private=true&theme=vue&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
