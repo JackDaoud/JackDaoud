@@ -8,7 +8,7 @@ I've recently grown fond of data analytics, and that's what brought me to the un
 | Technologies | Tools |
 |-|-|
 | ![Python 3.5](https://img.shields.io/static/v1?style=plastic&label=+&message=Python&logo=python&logoColor=white&color=green) | <img src="https://simpleicons.org/icons/numpy.svg" width="15"/> **NumPy**, <img src="https://simpleicons.org/icons/pandas.svg" width="15"/> **Pandas**, <img src="https://simpleicons.org/icons/scikit-learn.svg" width="15"/> **Scikit-learn**, **Matplotlib**, **Seaborn** |
-| ![R](https://img.shields.io/static/v1?style=plastic&label=+&message=R&logo=R&logoColor=white&color=276DC3) | **Tidyverse**: **dplyr**, **ggplot2**, **tidyr**, **readr**, **stringr**, **lubridate**, <br> **broom**, **reshape2** |
+| ![R](https://img.shields.io/static/v1?style=plastic&label=+&message=R&logo=R&logoColor=white&color=276DC3) | **Tidyverse**: **dplyr**, **ggplot2**, **tidyr**, **readr**, **stringr**, **lubridate**, <br> **broom**, **reshape2**, **qdap**, **tm** |
 | IDEs | <img src="https://simpleicons.org/icons/anaconda.svg" width="15"/> **Anaconda**, <img src="https://simpleicons.org/icons/jupyter.svg" width="15"/> **Jupyter**, <img src="https://simpleicons.org/icons/rstudio.svg" width="15"/> **RStudio**, <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="15"/> **VS Code** |
 | Others | <img src="https://simpleicons.org/icons/mysql.svg" width="15"/> **SQL**, <img src="https://simpleicons.org/icons/markdown.svg" width="15"/> **Markdown**, <img src="https://simpleicons.org/icons/git.svg" width="15"/> **Git**, <img src="https://simpleicons.org/icons/tableau.svg" width="15"/> **Tableau**|
 
