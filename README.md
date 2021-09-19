@@ -1,7 +1,14 @@
-<h1 align="center">Hello 👋🏻</h1>
 
-I'm Jack, a curious thinker with a passion for learning and evolving across different fields. I majored in philosophy, specialized in creative writing, and earned a certification in personal training. I'm currently earning dual master degrees in international business & business analytics.
-I've recently grown fond of data analytics, and that's what brought me to the universe of Github.
+
+I'm Jack, a curious thinker with a passion for learning and evolving across different fields. I majored in philosophy, specialized in creative writing, and earned a certification in personal training. I recently graduated with dual master degrees in international business & business analytics.
+I've grown fond of data science, and that's what brought me to the universe of Github.
+
+----
+
+### 📈 Github Stats:
+
+[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=JackDaoud&count_private=true&theme=vue&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🧰 Tech Toolbox:
 
@@ -11,10 +18,6 @@ I've recently grown fond of data analytics, and that's what brought me to the un
 | ![R](https://img.shields.io/static/v1?style=plastic&label=+&message=R&logo=R&logoColor=white&color=276DC3) | **Tidyverse**: **dplyr**, **ggplot2**, **tidyr**, **readr**, **stringr**, **lubridate**, <br> **broom**, **reshape2**, **qdap**, **tm** |
 | IDEs | <img src="https://simpleicons.org/icons/anaconda.svg" width="15"/> **Anaconda**, <img src="https://simpleicons.org/icons/jupyter.svg" width="15"/> **Jupyter**, <img src="https://simpleicons.org/icons/pycharm.svg" width="15"/> **PyCharm**, <img src="https://simpleicons.org/icons/rstudio.svg" width="15"/> **RStudio**, <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="15"/> **VS Code** |
 | Others | <img src="https://simpleicons.org/icons/mysql.svg" width="15"/> **SQL**, <img src="https://simpleicons.org/icons/markdown.svg" width="15"/> **Markdown**, <img src="https://simpleicons.org/icons/git.svg" width="15"/> **Git**, <img src="https://simpleicons.org/icons/tableau.svg" width="15"/> **Tableau**|
-
-### 📈 Github Stats:
-
-[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=JackDaoud&count_private=true&theme=vue&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
