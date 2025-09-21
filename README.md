@@ -1,8 +1,3 @@
-
-
-I'm Jack, a curious thinker with a passion for learning and evolving across different fields. I majored in philosophy, specialized in creative writing, and earned a certification in personal training. I recently graduated with dual master degrees in international business & business analytics.
-I've grown fond of data science, and that's what brought me to the universe of Github.
-
 ----
 
 ### 📈 Github Stats:
